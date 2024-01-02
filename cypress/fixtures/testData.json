@@ -1,0 +1,20 @@
+
+{
+
+
+
+"postRequestBody" : {
+    "firstName" : "Aziz",
+    "lastName" : "Elm",
+    "email" : "Aziz.elm@techGlobal.com",
+    "dob" : "1994-04-02" 
+},
+"putRequestBody" : {
+    "firstName" : "Aziz",
+    "lastName" : "updated",
+    "email" : "AzizElm@techGlobal.com",
+    "dob" : "1992-04-02" 
+}
+
+
+}
