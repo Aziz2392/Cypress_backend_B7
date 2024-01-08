@@ -107,6 +107,8 @@ describe('DB Connection', function() {
 
             cy.task('runQuery', 'SELECT * FROM student WHERE first_name = \'Aziz'\'Elm'')
          })
+
+         */
 })
 
 
